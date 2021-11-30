@@ -1,0 +1,209 @@
+[
+  {
+    "product": {
+      "name": "dpHarris – dermobella Hair",
+      "description": "dpHarris, professional hair and scalp analyzer with 50x magnification. The supreme hair analyzer provides comprehensive diagnostic analysis for scalp condition, hair density, dead skin cells on scalp, scalp sensitivity and hair thickness. ",
+      "price": "1,120.00",
+      "category_id": "categories[2].id"
+    },
+    "variant": [
+      {
+        "name": "App Version",
+        "options": [
+          {
+            "description": "Professional",
+            "price": "1,120.00"
+          },
+          {
+            "description": "Expert",
+            "price": "1,280.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "dpiHarris – dermopico Hair",
+      "description": "dpiHarris, design with portability in mind. Features multiple hair and scalp parameters that are vital in finding out the current condition of your hair and scalp. Comes with 30x magnification. ",
+      "price": "240.00",
+      "category_id": "categories[2].id"
+    },
+    "variant": [
+      {
+        "name": "App Version",
+        "options": [
+          {
+            "description": "Professional",
+            "price": "240.00"
+          },
+          {
+            "description": "Expert",
+            "price": "295.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "dpiViso – dermopico Skin",
+      "description": "dpiViso, is designed with portability and accuracy in mind, the  minimal concept design of dermoPico allows you to bring it anywhere you go, making it the ideal partner for your business needs. Comes with 10x magnification.",
+      "price": "199.00",
+      "category_id": "categories[2].id"
+    },
+    "variant": [
+      {
+        "name": "App Version",
+        "options": [
+          {
+            "description": "Professional",
+            "price": "199.00"
+          },
+          {
+            "description": "Expert",
+            "price": "250.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "dpViso – dermobella Skin",
+      "description": "dpViso, is a professional skin diagnostic system with unparalleled technology that comes with 20x magnification. The dpViso combines stylish and sophisticated design for fast and easy use with a cloud-enabled database of skin images using multi-spectral imaging and proprietary image processing software.",
+      "price": "1,120.00",
+      "category_id": "categories[0].id"
+    },
+    "variant": [
+      {
+        "name": "App Version",
+        "options": [
+          {
+            "description": "Professional",
+            "price": "1,120.00"
+          },
+          {
+            "description": "Expert",
+            "price": "1,390.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "dpViso – mySkin Kiosk",
+      "description": "dpViso is an advanced skin diagnostic system with unparalleled technology and comes with 20x magnification. The dpViso combines stylish and sophisticated design for fast and easy use with a cloud-enabled database of skin images using multi-spectral imaging and proprietary image processing software.",
+      "price": "1,120.00",
+      "category_id": "categories[1].id"
+    },
+    "variant": [
+      {
+        "name": "App Version",
+        "options": [
+          {
+            "description": "Professional",
+            "price": "1,120.00"
+          },
+          {
+            "description": "Expert",
+            "price": "1,280.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "dsHarris – dermobella Hair",
+      "description": "dsHarris is an advanced hair diagnostic system with unparalleled technology and comes with 50x magnification. The dsHarris combines stylish and sophisticated design for fast and easy use with a cloud-enabled database of hair images using multi-spectral imaging and proprietary image processing software.",
+      "price": "610.00",
+      "category_id": "categories[1].id"
+    },
+    "variant": [
+      {
+        "name": "App Version",
+        "options": [
+          {
+            "description": "Professional",
+            "price": "610.00"
+          },
+          {
+            "description": "Expert",
+            "price": "770.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "dsViso – dermobella Skin",
+      "description": "dsViso is an advanced skin diagnostic system with unparalleled technology and comes with 20x magnification. The dsViso combines stylish and sophisticated design for fast and easy use with a cloud-enabled database of skin images using multi-spectral imaging and proprietary image processing software.",
+      "price": "555.00",
+      "category_id": "categories[1].id"
+    },
+    "variant": [
+      {
+        "name": "App Version",
+        "options": [
+          {
+            "description": "Professional",
+            "price": "555.00"
+          },
+          {
+            "description": "Expert",
+            "price": "880.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "dpViso w/ Hair Lens – dermobella Skin & Hair",
+      "description": "dpViso with hair lens is a professional skin diagnostic system with unparalleled technology. That combines stylish and sophisticated design for fast and easy use with a cloud-enabled database of skin and hair images using multi-spectral imaging and proprietary image processing software.",
+      "price": "1,250.00",
+      "category_id": "categories[0].id"
+    },
+    "variant": [
+      {
+        "name": "App Version",
+        "options": [
+          {
+            "description": "Professional",
+            "price": "1,250.00"
+          },
+          {
+            "description": "Expert",
+            "price": "1,495.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": {
+      "name": "dsViso – mySkin Kiosk",
+      "description": "dsViso is an advanced skin diagnostic system with unparalleled technology and comes with 20x magnification. The dsViso combines stylish and sophisticated design for fast and easy use with a cloud-enabled database of skin images using multi-spectral imaging and proprietary image processing software.",
+      "price": "555.00",
+      "category_id": "categories[0].id"
+    },
+    "variant": [
+      {
+        "name": "App Version",
+        "options": [
+          {
+            "description": "Professional",
+            "price": "555.00"
+          },
+          {
+            "description": "Expert",
+            "price": "770.00"
+          }
+        ]
+      }
+    ]
+  }
+]
